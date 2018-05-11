@@ -9,8 +9,8 @@
   "author": "Alan Jhonnes <aj@alanjhonnes.com>",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha.3",
-    "fontawesome": "^4.5.0",
+    "bootstrap": "^4.1.0",
+    "fontawesome": "^4.7.0",
     "gsap": "^1.19.0"
   }
 }
