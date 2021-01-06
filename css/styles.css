@@ -155,3 +155,7 @@ article {
     content: ' - ';
   }
 }
+
+body {
+  overscroll-behavior: none;
+}
